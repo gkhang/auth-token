@@ -10,5 +10,8 @@
   "refreshToken": {
     "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJibG9ja2NoYWluLmJmZiIsImlzcyI6ImJsb2NrY2hhaW4uYmZmIiwiaGFzaGVkTWVtYmVySWQiOiIkMmEkMTAkMmVHbFo2dXJmODVBeFNIbDU2N2g0dXdFUlYyZWRESmJsVUZIaVgyQjMzVXkxWFRBU3MwSmEiLCJ0eXBlIjoiY3VzdG9tZXIiLCJpYXQiOjE1ODY0MDQ3OTQsInVzZXJuYW1lIjoiVGVzdCBVc2VyIn0.6RzYmooG5GFHUjV5groKwtzqEQo9WyVH8_Jj7SDThuc",
     "refreshToken": "OCv2iPWtdy8Pl2KqmMfcosfbzIMO1lc4beT4Ra2gYxsuEfANCAhw18Zf6XLxvHamrkl9NLSy85ha7DuL2qMy0u5AQQ3aI8xGj96vnvqS0Rc4F5JjzoW46LotzaYhs6UK"
+  },
+  "logout": {
+    "status": "token-deleted"
   }
 }
