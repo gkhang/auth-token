@@ -1,0 +1,8 @@
+{
+  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJibG9ja2NoYWluLmJmZiIsImlzcyI6ImJsb2NrY2hhaW4uYmZmIiwiaGFzaGVkTWVtYmVySWQiOiIkMmEkMTAkQkVCYVZmWWgzZEF5b21MakZHbGtqdVVIOUp6YmF2eHVReWFNL3FlMFVsNUJqT0QzWTJaY3kiLCJ0eXBlIjoiY3VzdG9tZXIiLCJpYXQiOjE1ODYyNDA4NTEsInVzZXJuYW1lIjoieW9ya3Rlc3QyIn0.McaPfCqaVEn1-hTIUWkTdg3bvvBM-sxHX027OQCO5qM",
+  "refreshToken": "V5WwxGe2ZaxTRcPj96C5CLNHxiJn3egKbfCEE3mdoNHldifmnyxn78WsoLIxRLrc9E67E5z2ij8BiVVyywWL0oFuj2OZcOo6dAvUw1YMqmfCvXnI4HEeVK1RoGDpftNe",
+  "additionalData": {
+    "type": "customer",
+    "hashedMemberId": "1920000002"
+  }
+}
